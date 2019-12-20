@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/a.dummy">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$MAVEN_REPOSITORY$/com/darkblade/rpc/darkblade-rpc-core/1.0.0/darkblade-rpc-core-1.0.0.jar!/com/darkblade/rpc/core/context/RpcContext.class">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$MAVEN_REPOSITORY$/com/darkblade/rpc/darkblade-rpc-core/1.0.0/darkblade-rpc-core-1.0.0.jar!/com/darkblade/rpc/core/helper/SendMessageHelper.class">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$MAVEN_REPOSITORY$/com/darkblade/rpc/darkblade-rpc-core/1.0.0/darkblade-rpc-core-1.0.0.jar!/com/darkblade/rpc/core/invoker/ObjectProxy.class">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$MAVEN_REPOSITORY$/com/darkblade/rpc/darkblade-rpc-core/1.0.0/darkblade-rpc-core-1.0.0.jar!/com/darkblade/rpc/core/netty/handler/NettyClientHandler.class">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../DarkbladeRPC/darkblade-rpc-core/src/main/java/com/darkblade/rpc/core/bean/RpcClientRegister.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../DarkbladeRPC/darkblade-rpc-core/src/main/java/com/darkblade/rpc/core/bootstrap/DarkbladeClientBootstrap.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../DarkbladeRPC/darkblade-rpc-core/src/main/java/com/darkblade/rpc/core/context/RpcContext.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../DarkbladeRPC/darkblade-rpc-core/src/main/java/com/darkblade/rpc/core/context/RpcContext2.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../DarkbladeRPC/darkblade-rpc-core/src/main/java/com/darkblade/rpc/core/helper/SendMessageHelper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../DarkbladeRPC/darkblade-rpc-core/src/main/java/com/darkblade/rpc/core/invoker/ObjectProxy.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../DarkbladeRPC/darkblade-rpc-core/src/main/java/com/darkblade/rpc/core/netty/handler/NettyClientHandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../DarkbladeRPC/darkblade-rpc-parent/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../darkblade-common-test/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/darkblade/register/controller/ServiceController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../darkblade-rpc-test/src/main/java/com/darkblade/test/controller/TestController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../darkblade-rpc-test/src/test/java/com/darkblade/test/Test.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
