@@ -3,6 +3,7 @@
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
+    <packaging>war</packaging>
 
     <parent>
         <groupId>org.springframework.boot</groupId>
@@ -64,4 +65,31 @@
             <url>http://139.196.230.12:8081/nexus/repository/maven-snapshots/</url>
         </snapshotRepository>
     </distributionManagement>
+
+<!--    <build>-->
+<!--        <plugins>-->
+<!--            <plugin>-->
+<!--                <groupId>org.codehaus.mojo</groupId>-->
+<!--                <artifactId>exec-maven-plugin</artifactId>-->
+<!--                <version>1.6.0</version>-->
+<!--                <executions>-->
+<!--                    <execution>-->
+<!--                        <goals>-->
+<!--                            <goal>java</goal>-->
+<!--                        </goals>-->
+<!--                    </execution>-->
+<!--                </executions>-->
+<!--                <configuration>-->
+<!--                    <executable>java</executable>-->
+<!--                    <arguments>-->
+<!--                        <argument>-Dsysteproperty=xxx</argument>-->
+<!--                        <argument>-classpath</argument>-->
+<!--                        <classpath/>-->
+<!--                        <argument>com.darkblade.register.Application</argument>-->
+<!--                        <argument>args</argument>-->
+<!--                    </arguments>-->
+<!--                </configuration>-->
+<!--            </plugin>-->
+<!--        </plugins>-->
+<!--    </build>-->
 </project>
