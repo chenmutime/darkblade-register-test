@@ -1,7 +1,11 @@
 server:
   port: 8080
 
+
 darkblade:
   rpc:
     netty:
       port: 10000
+      host: 139.196.230.12
+    zookeeper:
+      host: 139.196.230.12
