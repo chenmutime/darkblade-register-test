@@ -64,15 +64,22 @@
                 <groupId>org.codehaus.mojo</groupId>
                 <artifactId>exec-maven-plugin</artifactId>
                 <version>1.6.0</version>
-                <executions>
-                    <execution>
-                        <goals>
-                            <goal>java</goal>
-                        </goals>
-                    </execution>
-                </executions>
+                <!--                <executions>-->
+                <!--                    <execution>-->
+                <!--                        <goals>-->
+                <!--                            <goal>java</goal>-->
+                <!--                        </goals>-->
+                <!--                    </execution>-->
+                <!--                </executions>-->
                 <configuration>
-                    <mainClass>com.darkblade.register.Application</mainClass>
+                    <executable>java</executable>
+                    <arguments>
+<!--                        指定jvm参数-->
+                        <argument>-XX:MaxPermSize=256m</argument>
+                        <argument>-classpath</argument>
+                        <classpath/>
+                        <argument>com.darkblade.register.Application</argument>
+                    </arguments>
                 </configuration>
             </plugin>
         </plugins>
